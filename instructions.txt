@@ -1,0 +1,28 @@
+An MVC application I have worked on during my internship in Softmetrix (IT company), Belgrade.
+
+Topic: Electronic diary for primary schools
+
+Users: administrator, headmaster, teacher, parent
+
+Languages and technologies used: HTML, CSS, PHP, JS, AMCharts, Bootstrap
+
+Directory: diary
+Database name: e_diary
+
+
+Login details: 
+1. administrator: username: admin
+                  password: 123
+
+2. headmaster: username: headmaster
+               password: 123
+
+3. teacher: username: teacher
+            password: 123
+
+4. parent: username: parent
+           password: 123
+
+
+NOTE:
+MessageController.php, messager.js, Parents.messages.php, Teacher.messages.php done by https://github.com/DrcaVuk
